@@ -1,6 +1,12 @@
-# Projeto - Controle de Gastos pessoais 
-*Descrição* - Projeto para criação de aplicação de controle de gastos pessoais, utilizando tecnologias mobile.
+# Projeto - Tela de Login 
+*Descrição* - Projeto para criação de tela de login.
 
-## Índice
+## Funcionalidade 
+Tela com dois campos, sendo elas: senha e email. Tem a função de realizar a verificação do usuário em determinado site, garantindo a segurança.
 
-## Tecnologias
+## Tecnologias:
+* HTML 5
+* css 3 
+
+## Autoria
+gi
