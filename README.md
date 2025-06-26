@@ -9,4 +9,3 @@ Tela com dois campos, sendo elas: senha e email. Tem a função de realizar a ve
 * css 3 
 
 ## Autoria
-gi
