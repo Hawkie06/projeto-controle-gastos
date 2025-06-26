@@ -3,4 +3,4 @@
 
 ## Índice
 
-## Tecnoligias
+## Tecnologias
